@@ -1,0 +1,239 @@
+<!doctype html>
+
+
+
+
+
+
+
+<html
+  class="not-ready lg:text-base"
+  style="--bg:#faf8f1"
+  lang="en-us"
+  dir="ltr"
+><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
+
+  
+  <title>My First Post - My New Hugo Site</title>
+
+  
+  <meta name="theme-color" />
+
+  <meta name="description" content="What is BaliSquad?
+BaliSquad is a community-driven platform to discover and host events happening across Bali.
+It brings together people who want to learn, connect, and do things in real life — whether that’s building projects, exploring ideas, learning new skills, or meeting like-minded people.
+Instead of relying on scattered Instagram posts, private WhatsApp groups, or word of mouth, BaliSquad puts events in one public place that anyone can access." />
+  <meta name="author" content="My New Hugo Site" /><link rel="preload stylesheet" as="style" href="http://localhost:1313/main.min.e86ae67e01e2d2055106abf72be7357c950191060e5f159f24e2790fd8237e8c.css" integrity="sha256-6GrmfgHi0gVRBqv3K&#43;c1fJUBkQYOXxWfJOJ5D9gjfow=" />
+
+  
+  <link rel="preload" as="image" href="http://localhost:1313/theme.png" />
+
+  
+
+  
+
+  <script
+    defer
+    src="http://localhost:1313/highlight.min.js"
+    onload="hljs.initHighlightingOnLoad()"
+  ></script>
+
+  
+  <link
+    rel="icon"
+    href="http://localhost:1313/favicon.ico"
+  />
+  <link
+    rel="apple-touch-icon"
+    href="http://localhost:1313/apple-touch-icon.png"
+  />
+
+  <meta name="generator" content="Hugo 0.154.5">
+</head>
+<body
+    class="bg-(--bg) text-black antialiased duration-200 ease-out [-webkit-tap-highlight-color:transparent] dark:text-white"
+  ><header
+  class="mx-auto flex h-[4.5rem] max-w-(--w) px-8 whitespace-nowrap lg:justify-center"
+>
+  <div class="relative z-50 flex items-center ltr:mr-auto rtl:ml-auto">
+    <a
+      class="-translate-y-[1px] text-2xl font-medium"
+      href="http://localhost:1313/"
+      >My New Hugo Site</a
+    >
+    <div
+      class="btn-dark text-[0px] ltr:ml-4 rtl:mr-4 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] dark:[background-position:right]"
+      role="button"
+      aria-label="Dark"
+    ></div>
+  </div>
+
+  <div
+    class="btn-menu relative z-50 flex h-[4.5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden ltr:-mr-8 rtl:-ml-8"
+    role="button"
+    aria-label="Menu"
+  ></div>
+
+  <script>
+    
+    const htmlClass = document.documentElement.classList;
+    setTimeout(() => {
+      htmlClass.remove('not-ready');
+    }, 10);
+
+    
+    const btnMenu = document.querySelector('.btn-menu');
+    btnMenu.addEventListener('click', () => {
+      htmlClass.toggle('open');
+    });
+
+    
+    const metaTheme = document.querySelector('meta[name="theme-color"]');
+    const lightBg = '#faf8f1'.replace(/"/g, '');
+    const setDark = (isDark) => {
+      metaTheme.setAttribute('content', isDark ? "rgb(0 0 0 / 85%)" : lightBg);
+      htmlClass[isDark ? 'add' : 'remove']('dark');
+      localStorage.setItem('dark', isDark);
+    };
+
+    
+    const darkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+    if (htmlClass.contains('dark')) {
+      setDark(true);
+    } else {
+      const darkVal = localStorage.getItem('dark');
+      setDark(darkVal ? darkVal === 'true' : darkScheme.matches);
+    }
+
+    
+    darkScheme.addEventListener('change', (event) => {
+      setDark(event.matches);
+    });
+
+    
+    const btnDark = document.querySelector('.btn-dark');
+    btnDark.addEventListener('click', () => {
+      setDark(localStorage.getItem('dark') !== 'true');
+    });
+  </script>
+
+  <div
+    class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full flex-col justify-center bg-(--bg) pb-16 duration-200 select-none lg:static lg:h-auto lg:flex-row lg:bg-transparent! lg:pb-0 lg:transition-none"
+  >
+  </div>
+</header>
+<main
+      class="prose prose-neutral dark:prose-invert relative mx-auto min-h-[calc(100vh-9rem)] max-w-(--w) px-8 pt-14 pb-16"
+    ><article>
+  <header class="mb-14">
+    <h1 class="my-0! pb-2.5">My First Post</h1><div class="text-xs antialiased opacity-60"><time>Jan 25, 2026</time></div></header>
+
+  <section><h1 id="what-is-balisquad">What is BaliSquad?</h1>
+<p>BaliSquad is a community-driven platform to discover and host events happening across Bali.</p>
+<p>It brings together people who want to learn, connect, and do things in real life — whether that’s building projects, exploring ideas, learning new skills, or meeting like-minded people.</p>
+<p>Instead of relying on scattered Instagram posts, private WhatsApp groups, or word of mouth, BaliSquad puts events in one public place that anyone can access.</p>
+<p>One place to see what’s happening.
+One place to share events.
+One place to show up.</p>
+<hr>
+<h2 id="why-balisquad-exists">Why BaliSquad exists</h2>
+<p>Bali has a vibrant community scene, but it is fragmented.</p>
+<p>Events are often:</p>
+<ul>
+<li>Shared only in closed groups</li>
+<li>Easy to miss if you are new</li>
+<li>Lost quickly on social media</li>
+</ul>
+<p>BaliSquad exists to make events:</p>
+<ul>
+<li>Easy to discover</li>
+<li>Open to everyone</li>
+<li>Visible beyond a single post or story</li>
+</ul>
+<p>The goal is simple: help people find the right events and help organizers reach the right people.</p>
+<hr>
+<h2 id="who-is-balisquad-for">Who is BaliSquad for?</h2>
+<h3 id="people-who-want-to-connect-offline">People who want to connect offline</h3>
+<p>If you are looking to:</p>
+<ul>
+<li>Meet new people</li>
+<li>Join communities</li>
+<li>Have better conversations than online comments</li>
+</ul>
+<p>BaliSquad helps you find events worth showing up for.</p>
+<hr>
+<h3 id="event-organizers-and-community-hosts">Event organizers and community hosts</h3>
+<p>If you run meetups, workshops, talks, or social gatherings, BaliSquad helps you:</p>
+<ul>
+<li>Share your event publicly</li>
+<li>Reach people outside your existing circles</li>
+<li>Build trust with a clear event page</li>
+</ul>
+<p>Your event does not disappear after 24 hours.</p>
+<hr>
+<h3 id="newcomers-to-bali">Newcomers to Bali</h3>
+<p>If you just arrived and are wondering:</p>
+<blockquote>
+<p>Where do people actually go to meet others?</p>
+</blockquote>
+<p>BaliSquad gives you:</p>
+<ul>
+<li>A clear starting point</li>
+<li>Active events happening this week</li>
+<li>Communities you can join without insider access</li>
+</ul>
+<hr>
+<h3 id="curious-and-open-minded-people">Curious and open-minded people</h3>
+<p>You do not need a specific title or background.</p>
+<p>If you are:</p>
+<ul>
+<li>Exploring new interests</li>
+<li>Learning something new</li>
+<li>Building side projects</li>
+<li>Looking for inspiration or connection</li>
+</ul>
+<p>BaliSquad is for you.</p>
+<hr>
+<h2 id="what-balisquad-is-not">What BaliSquad is not</h2>
+<p>BaliSquad is not:</p>
+<ul>
+<li>A spam-filled event board</li>
+<li>A closed or exclusive community</li>
+<li>A hype-driven calendar</li>
+</ul>
+<p>It is built for real people, real gatherings, and real connections.</p>
+<hr>
+<h2 id="the-bigger-picture">The bigger picture</h2>
+<p>BaliSquad aims to be:</p>
+<ul>
+<li>A public home for Bali’s communities and events</li>
+<li>A trusted place to discover what’s happening</li>
+<li>A bridge between people, not just a list of dates</li>
+</ul>
+<p>If you care about showing up, learning, and meeting people in real life, BaliSquad is for you.</p>
+</section>
+
+  </article></main><footer
+  class="mx-auto flex h-[4.5rem] max-w-(--w) items-center px-8 text-xs tracking-wider uppercase opacity-60"
+>
+  <div class="mr-auto">&copy;2026
+    <a class="link" href="http://localhost:1313/">My New Hugo Site</a></div>
+  <a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank"
+    >powered by hugo️️</a
+  >️
+  <a
+    class="link"
+    href="https://github.com/nanxiaobei/hugo-paper"
+    rel="noopener"
+    target="_blank"
+    >hugo-paper</a
+  >
+</footer>
+</body>
+</html>
