@@ -1,4 +1,14 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://balisquad.com/blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'BaliSquad'
 theme = 'paper'
+
+[params]
+  instagram = 'balisquad.id'
+
+[menu]
+  [[menu.main]]
+    identifier = 'about'
+    name = 'About'
+    url = '/about/'
+    weight = 10
