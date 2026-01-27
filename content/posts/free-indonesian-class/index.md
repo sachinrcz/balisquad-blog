@@ -7,7 +7,7 @@ tags = ["community", "language", "learning", "bali"]
 
 ## Why learning basic Indonesian helps you connect in Bali and how we’re making it easier.
 
-Living in Bali is easier — and more meaningful — when you can speak a bit of the local language.
+Living in Bali is easier and more meaningful when you can speak a bit of the local language.
 
 Even simple phrases can change how you connect with people, from ordering coffee to having real conversations with locals.
 
