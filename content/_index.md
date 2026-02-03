@@ -1,5 +1,8 @@
 ---
-title: "BaliSquad Blog"
+menu:
+    main:
+        name: Home
+        weight: -100
+        params:
+            icon: home
 ---
-
-Stories, guides, and updates from the BaliSquad community.

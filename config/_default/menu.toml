@@ -1,0 +1,20 @@
+[[social]]
+    identifier = "instagram"
+    name       = "Instagram"
+    url        = "https://instagram.com/balisquad.id"
+    [social.params]
+        icon = "brand-instagram"
+
+[[social]]
+    identifier = "whatsapp"
+    name       = "WhatsApp"
+    url        = "https://wa.me/6282342198320"
+    [social.params]
+        icon = "brand-whatsapp"
+
+[[social]]
+    identifier = "email"
+    name       = "Email"
+    url        = "mailto:hello@balisquad.com"
+    [social.params]
+        icon = "mail"

@@ -1,7 +1,6 @@
 baseURL      = "https://balisquad.com/blog/"
 languageCode = "en-us"
 title        = "BaliSquad"
-theme        = "stack"
 
 defaultContentLanguage = "en"
 hasCJKLanguage = false

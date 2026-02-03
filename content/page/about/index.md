@@ -1,6 +1,12 @@
-+++
-title = 'About'
-+++
+---
+title: "About"
+description: "Learn about BaliSquad - a community-driven platform for events in Bali"
+menu:
+    main:
+        weight: -90
+        params:
+            icon: user
+---
 
 ## What is BaliSquad
 
