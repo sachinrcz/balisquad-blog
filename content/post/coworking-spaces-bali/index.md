@@ -2,7 +2,7 @@
 title: "Coworking Spaces in Bali: Best Places to Work from in 2024"
 date: 2026-02-03
 description: "A comprehensive guide to the best coworking spaces in Bali including Bukit, Jimbaran, and Canggu areas with prices, amenities, and community details."
-categories: ["Travel", "Work"]
+categories: ["Travel", "Coworking"]
 tags: ["coworking", "bali", "digital-nomad", "remote-work", "uluwatu", "jimbaran", "bukit"]
 ---
 
