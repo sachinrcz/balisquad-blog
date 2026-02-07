@@ -2,7 +2,7 @@
 title: "Dentistry in Bali: Where to Get Dental Treatment in Bali"
 date: 2026-02-01
 description: "Overview of popular dental clinics, prices, and services for people seeking dental care on Bali."
-categories: ["Travel", "Health"]
+categories: ["Health"]
 tags: ["dental", "clinics", "bali", "healthcare", "dentist"]
 ---
 
