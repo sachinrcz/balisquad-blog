@@ -1,3 +1,15 @@
+[[main]]
+    identifier = "home"
+    name       = "← BaliSquad"
+    url        = "https://balisquad.com"
+    weight     = 10
+
+[[main]]
+    identifier = "blog-home"
+    name       = "Blog"
+    url        = "/"
+    weight     = 20
+
 [[social]]
     identifier = "instagram"
     name       = "Instagram"

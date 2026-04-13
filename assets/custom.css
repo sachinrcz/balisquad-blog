@@ -1,0 +1,222 @@
+/* ============================================================
+   BaliSquad Blog — custom overrides to match the main site
+   Colors: green #0B6E5F, accent yellow #F2C94C, bg #F7F7F7
+   Font: Poppins (matching balisquad-frontend)
+   ============================================================ */
+
+/* Import Poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+/* ── Light mode variables ──────────────────────────────────── */
+:root {
+    --accent-color:              #0B6E5F;
+    --accent-color-darker:       #095c4f;
+    --accent-color-text:         #ffffff;
+
+    --body-background:           #F7F7F7;
+    --card-background:           #ffffff;
+    --body-text-color:           #1A1A1A;
+    --body-secondary-text-color: #4a4a4a;
+    --body-font-family:          'Poppins', system-ui, -apple-system, sans-serif;
+
+    --sidebar-color:             #0B6E5F;
+
+    --tag-border-radius:         0.5rem;
+    --section-separator-color:   rgba(0, 0, 0, 0.08);
+    --card-border-radius:        0.75rem;
+    --menu-icon-separator:       rgba(0, 0, 0, 0.08);
+}
+
+/* ── Dark mode variables ───────────────────────────────────── */
+[data-scheme="dark"] {
+    --accent-color:              #14a085;
+    --accent-color-darker:       #0B6E5F;
+    --accent-color-text:         #ffffff;
+
+    --body-background:           #1a1a1a;
+    --card-background:           #242424;
+    --body-text-color:           #f0f0f0;
+    --body-secondary-text-color: #a0a0a0;
+
+    --sidebar-color:             #0d1f1c;
+}
+
+/* ── Sidebar ───────────────────────────────────────────────── */
+.sidebar {
+    background: var(--sidebar-color);
+}
+
+.sidebar .site-name,
+.sidebar .site-description {
+    color: rgba(255, 255, 255, 0.95) !important;
+}
+
+.sidebar .site-avatar {
+    border: none;
+    border-radius: 0;
+    background: transparent;
+    box-shadow: none;
+}
+
+/* Logo image — show full, no circle crop */
+.sidebar .site-avatar img {
+    border-radius: 0;
+    object-fit: contain;
+    width: 90px;
+    height: 90px;
+    mix-blend-mode: multiply; /* blends white bg away on green sidebar */
+}
+
+/* Social icons in sidebar */
+.sidebar .social-menu .social-item a {
+    color: rgba(255, 255, 255, 0.8);
+}
+.sidebar .social-menu .social-item a:hover {
+    color: #F2C94C;
+}
+
+/* Sidebar menu links */
+.sidebar-menu .menu-item a {
+    color: rgba(255, 255, 255, 0.85) !important;
+}
+.sidebar-menu .menu-item a:hover,
+.sidebar-menu .menu-item.active a {
+    color: #F2C94C !important;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 0.5rem;
+}
+
+/* ── Cards ─────────────────────────────────────────────────── */
+.card {
+    border-radius: var(--card-border-radius);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+.card:hover {
+    box-shadow: 0 4px 12px rgba(11, 110, 95, 0.12);
+    transform: translateY(-1px);
+}
+
+/* ── Article links & headings ──────────────────────────────── */
+.article-title a,
+.article-title a:visited {
+    color: var(--body-text-color);
+}
+.article-title a:hover {
+    color: var(--accent-color);
+}
+
+/* Inline links */
+.article-content a {
+    color: var(--accent-color);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+.article-content a:hover {
+    color: var(--accent-color-darker);
+}
+
+/* ── Tags ──────────────────────────────────────────────────── */
+.tag-cloud a,
+.article-tags a {
+    background: rgba(11, 110, 95, 0.08);
+    color: var(--accent-color);
+    border-radius: var(--tag-border-radius);
+    font-size: 0.8rem;
+    font-weight: 500;
+    padding: 0.2rem 0.6rem;
+    transition: background 0.15s;
+}
+.tag-cloud a:hover,
+.article-tags a:hover {
+    background: var(--accent-color);
+    color: #ffffff;
+}
+
+/* ── Pagination & buttons ──────────────────────────────────── */
+.pagination .page-link {
+    border-radius: 0.5rem;
+    color: var(--accent-color);
+    border-color: rgba(11, 110, 95, 0.3);
+}
+.pagination .page-link:hover,
+.pagination .page-link.active {
+    background: var(--accent-color);
+    color: #ffffff;
+    border-color: var(--accent-color);
+}
+
+/* ── Search box ────────────────────────────────────────────── */
+#search-form input {
+    border-radius: 0.5rem;
+    border: 1px solid rgba(11, 110, 95, 0.25);
+    font-family: var(--body-font-family);
+}
+#search-form input:focus {
+    border-color: var(--accent-color);
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(11, 110, 95, 0.15);
+}
+
+/* ── Code blocks ───────────────────────────────────────────── */
+.article-content pre {
+    border-radius: 0.5rem;
+}
+
+/* ── Footer ────────────────────────────────────────────────── */
+footer {
+    border-top: 1px solid var(--section-separator-color);
+    color: var(--body-secondary-text-color);
+    font-family: var(--body-font-family);
+    font-size: 0.8rem;
+}
+
+footer a {
+    color: var(--accent-color);
+}
+
+/* ── Back-to-main banner ───────────────────────────────────── */
+.balisquad-back-banner {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    background: rgba(242, 201, 76, 0.15);
+    border-bottom: 1px solid rgba(242, 201, 76, 0.4);
+    font-family: var(--body-font-family);
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: var(--body-text-color);
+}
+.balisquad-back-banner a {
+    color: var(--accent-color);
+    font-weight: 600;
+    text-decoration: none;
+}
+.balisquad-back-banner a:hover {
+    text-decoration: underline;
+}
+
+/* ── Accent yellow highlight for featured / important ──────── */
+.widget-title,
+.section-card-header {
+    border-left: 3px solid #F2C94C;
+    padding-left: 0.6rem;
+}
+
+/* ── Typography ────────────────────────────────────────────── */
+body {
+    font-family: var(--body-font-family);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--body-font-family);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+}
+
+.article-content {
+    font-size: 1rem;
+    line-height: 1.75;
+}

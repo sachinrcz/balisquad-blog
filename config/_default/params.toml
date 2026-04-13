@@ -5,8 +5,9 @@ rssFullContent = true
     since = 2024
 
 [sidebar]
-    emoji    = "🏝️"
     subtitle = "Discover events and connect with people in Bali"
+
+    avatar = "balisquad-logo.png"
 
 [article]
     headingAnchor = true
@@ -30,7 +31,7 @@ rssFullContent = true
 
 [colorScheme]
     toggle  = true
-    default = "auto"
+    default = "light"
 
 [imageProcessing.cover]
     enabled = true
