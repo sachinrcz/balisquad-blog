@@ -12,6 +12,8 @@
     --accent-color:              #0B6E5F;
     --accent-color-darker:       #095c4f;
     --accent-color-text:         #ffffff;
+    --accent-soft:               #E6F4F1;
+    --accent-yellow:             #F2C94C;
 
     --body-background:           #F7F7F7;
     --card-background:           #ffffff;
@@ -25,6 +27,9 @@
     --section-separator-color:   rgba(0, 0, 0, 0.08);
     --card-border-radius:        0.75rem;
     --menu-icon-separator:       rgba(0, 0, 0, 0.08);
+    --ui-radius:                 0.75rem;
+    --ui-shadow:                 0 8px 24px rgba(15, 23, 42, 0.06);
+    --ui-shadow-hover:           0 14px 36px rgba(11, 110, 95, 0.14);
 }
 
 /* ── Dark mode variables ───────────────────────────────────── */
@@ -39,11 +44,21 @@
     --body-secondary-text-color: #a0a0a0;
 
     --sidebar-color:             #0d1f1c;
+    --accent-soft:               rgba(20, 160, 133, 0.18);
+    --ui-shadow:                 0 8px 24px rgba(0, 0, 0, 0.28);
+    --ui-shadow-hover:           0 16px 36px rgba(0, 0, 0, 0.34);
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
 /* ── Sidebar ───────────────────────────────────────────────── */
 .sidebar {
-    background: var(--sidebar-color);
+    background:
+        radial-gradient(120% 90% at 10% 10%, rgba(242, 201, 76, 0.12), transparent 45%),
+        radial-gradient(100% 80% at 100% 100%, rgba(255, 255, 255, 0.12), transparent 48%),
+        var(--sidebar-color);
 }
 
 .sidebar .site-name,
@@ -89,13 +104,25 @@
 /* ── Cards ─────────────────────────────────────────────────── */
 .card {
     border-radius: var(--card-border-radius);
-    border: 1px solid rgba(0, 0, 0, 0.06);
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+    border: 1px solid rgba(0, 0, 0, 0.07);
+    box-shadow: var(--ui-shadow);
+    overflow: clip;
     transition: box-shadow 0.2s ease, transform 0.2s ease;
 }
 .card:hover {
-    box-shadow: 0 4px 12px rgba(11, 110, 95, 0.12);
-    transform: translateY(-1px);
+    box-shadow: var(--ui-shadow-hover);
+    transform: translateY(-2px);
+}
+
+.main-article {
+    border-radius: var(--ui-radius);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    box-shadow: var(--ui-shadow);
+    background: var(--card-background);
+}
+
+.article-image img {
+    border-radius: calc(var(--ui-radius) - 2px);
 }
 
 /* ── Article links & headings ──────────────────────────────── */
@@ -115,6 +142,21 @@
 }
 .article-content a:hover {
     color: var(--accent-color-darker);
+}
+
+.article-content h2,
+.article-content h3 {
+    margin-top: 2.1rem;
+    margin-bottom: 0.85rem;
+    color: var(--body-text-color);
+}
+
+.article-content blockquote {
+    border-left: 4px solid var(--accent-color);
+    background: var(--accent-soft);
+    border-radius: 0.5rem;
+    padding: 0.9rem 1rem;
+    color: var(--body-secondary-text-color);
 }
 
 /* ── Tags ──────────────────────────────────────────────────── */
@@ -147,6 +189,18 @@
     border-color: var(--accent-color);
 }
 
+.button,
+.menu-bottom-section a {
+    border-radius: 0.6rem;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.button:hover,
+.menu-bottom-section a:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 6px 18px rgba(11, 110, 95, 0.2);
+}
+
 /* ── Search box ────────────────────────────────────────────── */
 #search-form input {
     border-radius: 0.5rem;
@@ -162,6 +216,14 @@
 /* ── Code blocks ───────────────────────────────────────────── */
 .article-content pre {
     border-radius: 0.5rem;
+    border: 1px solid rgba(11, 110, 95, 0.12);
+}
+
+.article-content code:not(pre code) {
+    background: var(--accent-soft);
+    color: var(--accent-color-darker);
+    border-radius: 0.35rem;
+    padding: 0.1rem 0.35rem;
 }
 
 /* ── Footer ────────────────────────────────────────────────── */
@@ -201,7 +263,7 @@ footer a {
 /* ── Accent yellow highlight for featured / important ──────── */
 .widget-title,
 .section-card-header {
-    border-left: 3px solid #F2C94C;
+    border-left: 3px solid var(--accent-yellow);
     padding-left: 0.6rem;
 }
 
@@ -219,4 +281,21 @@ h1, h2, h3, h4, h5, h6 {
 .article-content {
     font-size: 1rem;
     line-height: 1.75;
+}
+
+.article-content p + p {
+    margin-top: 1.05rem;
+}
+
+/* Better spacing rhythm on small screens */
+@media (max-width: 768px) {
+    .main-article {
+        border-radius: 0.6rem;
+        box-shadow: 0 6px 18px rgba(15, 23, 42, 0.08);
+    }
+
+    .article-content {
+        font-size: 0.98rem;
+        line-height: 1.7;
+    }
 }
