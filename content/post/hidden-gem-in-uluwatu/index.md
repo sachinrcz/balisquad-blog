@@ -5,6 +5,7 @@ description: "Explore the quieter side of Uluwatu in Bukit, Ungasan. Think peace
 tags: ["Bali", "Uluwatu", "Ungasan", "Bukithub", "Coworking", "Travel", "Lifestyle"]
 categories: ["Travel", "Lifestyle"]
 draft: false
+image: https://www.bukithub.com/_next/image?url=%2Fimages%2Fgallery%2Fbadminton.webp&w=640&q=75
 ---
 
 ## Hidden Gems of Uluwatu: Discover the Charm of Bukit, Ungasan 🌴✨
@@ -12,6 +13,8 @@ draft: false
 Tucked along the southern cliffs of Bali, the Bukit Peninsula, especially around Ungasan, feels like a different side of Uluwatu. It is quieter, a bit slower, and less crowded than the usual hotspots. If you spend a few days here, you start to notice the small things that make it special.
 
 ### 🌊 Secret Beaches and Coastal Spots
+
+![Green Bowl](https://littlebingin.com/wp-content/uploads/2025/12/maxresdefault-2-1024x576.jpg)
 
 Uluwatu is known for its coastline, but Ungasan has a few places that still feel a bit under the radar.
 
@@ -22,6 +25,8 @@ Pandawa Beach is easier and more relaxed. The shoreline is wide, the water is ca
 Green Bowl Beach takes a bit more effort to reach, but that is part of the charm. After the walk down, you get a quiet cove that often feels far from everything else.
 
 ### 🏄 Staying Active Without Forcing It
+
+![Muscle Beach Club](https://bestbeachclubsbali.com/wp-content/uploads/2025/05/372728692_842761363734997_2231007196224014103_n-1024x1024.jpg)
 
 Life in Bukit naturally encourages you to move. Some mornings start with a surf or just a walk along the cliffs. Other days it might just be a short gym session to reset.
 
@@ -35,15 +40,19 @@ Places like Kanana Bali are good for that kind of reset. You go in feeling a bit
 
 ### 🚶 The Small Things That Stick
 
+![Warung Solo Via](https://media-cdn.tripadvisor.com/media/photo-m/1280/13/fb/c1/e2/buffet.jpg)
+
 What makes Ungasan stand out is not just the beaches or the gyms. It is the everyday moments in between.
 
 You might find a small warung you end up going back to, a quiet temple on a side road, or a viewpoint you did not plan to visit. These little discoveries are what make the place feel personal.
 
 ### 🤝 Finding Your Own Rhythm
 
+![Bukithub Coworking](https://www.bukithub.com/_next/image?url=%2Fimages%2Fgallery%2Fsecond_floor_new.jpg&w=640&q=75)
+
 Somewhere in between all of this, work fits in naturally. You open your laptop for a few hours, then head out again.
 
-Spaces like Bukithub give you a comfortable place to focus without feeling disconnected from everything around you. It is not just about getting things done, but about enjoying how your day flows.
+Spaces like [Bukithub Coworking](https://www.bukithub.com) give you a comfortable place to focus without feeling disconnected from everything around you. It is not just about getting things done, but about enjoying how your day flows.
 
 ---
 

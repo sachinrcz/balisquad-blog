@@ -23,10 +23,3 @@
     url        = "https://wa.me/6282342198320"
     [social.params]
         icon = "brand-whatsapp"
-
-[[social]]
-    identifier = "email"
-    name       = "Email"
-    url        = "mailto:hello@balisquad.com"
-    [social.params]
-        icon = "mail"
