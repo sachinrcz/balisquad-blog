@@ -162,8 +162,15 @@ Students and hobbyists in the room were frustrated. It’s a reminder that tooli
 
 ---
 
-### Join us for Meetup #9
+### What’s next
 
-We run **AI Coworking** every week at [Bukithub](https://www.bukithub.com). Come for the focused work time, stay for the recap and conversations. You don’t need to be a developer — just curious about AI and happy to work alongside others.
+**[Cursor for Beginners — Bali](https://luma.com/zj7cwg7l)**  
+Wednesday, 3 June 2026 · 13:00–15:00 · [BukitHub Coworking](https://www.bukithub.com), Ungasan
 
-See you next week.
+A hands-on Cursor AI meetup — install it, build something together, or swap workflows with other builders. We’ll also touch on cloud Agents, Automations, and skills. Pizza, drinks, and free Cursor credits for attendees. Entry is free.
+
+[Register on Luma →](https://luma.com/zj7cwg7l)
+
+We also run **AI Coworking** every week at BukitHub. Come for the focused work time, stay for the recap and conversations. You don’t need to be a developer — just curious about AI and happy to work alongside others.
+
+See you there.
