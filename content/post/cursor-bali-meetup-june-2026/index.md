@@ -6,12 +6,14 @@ tags: ["Cursor", "AI", "BaliSquad", "Bukithub", "Recap", "Community", "Meetup"]
 categories: ["Community", "AI"]
 draft: false
 slug: cursor-bali-meetup-june-2026
-image: cover.jpg
+image: https://cdn.balisquad.com/cursor/cursor-bali-june/IMG_0614.jpg
 ---
 
 ## Second Cursor Meetup in Bali, June 3, 2026
 
 We just wrapped our second Cursor meetup in Bali, and it felt like a real step forward for the community here.
+
+![Cursor meetup at BukitHub Coworking](https://cdn.balisquad.com/cursor/cursor-bali-june/IMG_0614.jpg)
 
 This one was built for beginners. We kept the group small on purpose so we could actually sit with people, help them install Cursor, and walk through the basics without anyone getting left behind. The room had a great mix: aspiring developers, people writing their first lines of code, and folks from marketing, design, and product who wanted to see what Cursor could do for their work.
 
@@ -23,9 +25,17 @@ The evening had a few clear beats:
 - Two lightning talks from community members showing how they use Cursor in real projects
 - A lot of open conversation, side-by-side learning, and swapping ideas
 
+![Lightning talk at the Cursor meetup](https://cdn.balisquad.com/cursor/cursor-bali-june/image.png)  ![Hands-on Cursor session](https://cdn.balisquad.com/cursor/cursor-bali-june/image%20(1).png)
+
 What stuck with us most was the energy at the end. People did not just pack up and leave. They wanted to keep going, start building things, and come back to the next meetup with more questions and stories to share.
 
 Every time we run one of these, the format gets a little sharper and the room feels a little more comfortable. That is the part we care about: helping more people in Bali discover Cursor in a way that actually clicks for them.
+
+### Photos from the evening
+
+![Meetup group photo](https://cdn.balisquad.com/cursor/cursor-bali-june/image%20(3).png)  ![Attendees working together](https://cdn.balisquad.com/cursor/cursor-bali-june/image%20(4).png)
+
+![Networking after the talks](https://cdn.balisquad.com/cursor/cursor-bali-june/image%20(5).png)
 
 ### Event recap video
 
@@ -45,4 +55,4 @@ If you want more photos and clips from the night, we shared highlights across so
 
 Big thanks to [Cursor](https://cursor.com), [Cursor Bali](https://www.linkedin.com/company/cursor-bali), [BaliSquad](https://balisquad.com), [BukitHub Coworking](https://www.bukithub.com), and everyone who showed up.
 
-We are already thinking about the next one. If you missed this round, follow [Cursor Bali on X](https://x.com/cursorbali) or [BaliSquad](https://balisquad.com) for what is coming up.
+We are already thinking about the next one. If you missed this round, follow [Cursor Bali on X](https://x.com/cursorbali) or [BaliSquad](https://instagram.com/balisquad.id) for what is coming up.
