@@ -5,7 +5,7 @@ description: "New to Bali or tired of missing the good stuff? Here’s how to ac
 tags: ["BaliSquad", "Community", "Meetup", "Bali", "Events"]
 categories: ["Community", "Lifestyle"]
 draft: false
-image: https://cdn.balisquad.com/cursor/cursor-bali-june/IMG_0614.jpg
+image: https://cdn.balisquad.com/organizers/b5156f56-2cfc-472d-826f-3cc24562df47.jpeg
 ---
 
 ## How to Find Events in Bali (Without Living in WhatsApp Groups)
@@ -18,7 +18,7 @@ You’ve probably had that moment where someone mentions a great evening and you
 
 There’s a simpler way to find what’s on and actually show up.
 
-![People hanging out at a BaliSquad meetup](https://cdn.balisquad.com/cursor/cursor-bali-june/IMG_0614.jpg)
+![Group photo at a BaliSquad badminton night](https://cdn.balisquad.com/organizers/b5156f56-2cfc-472d-826f-3cc24562df47.jpeg)
 
 ---
 
@@ -35,7 +35,7 @@ So you either grind to get into the right chats, or you miss half of what’s ha
 
 That’s the gap BaliSquad was built for. One public place to see events across Bali, join them, and host your own, without needing an intro first.
 
-![Friends meeting up at a community event in Bali](https://cdn.balisquad.com/cursor/cursor-bali-june/image%20(3).png)
+![People connecting at a community circle in Bali](https://cdn.balisquad.com/organizers/da86cdff-7db3-4905-b7f6-3f040666eda0.jpg)
 
 ---
 
@@ -63,7 +63,7 @@ BaliSquad doesn’t replace every channel. It just stops those channels from bei
 
 Use those. Just don’t wait on them to learn that something exists.
 
-![People talking after a meetup in Bali](https://cdn.balisquad.com/cursor/cursor-bali-june/image%20(5).png)
+![Friends meeting and talking at a Bali meetup](https://cdn.balisquad.com/cursor/cursor-bali-june/image%20(5).png)
 
 ---
 
@@ -79,7 +79,7 @@ Not every meetup feels the same. Before you RSVP, ask what you’re looking for 
 
 BaliSquad’s event pages usually make the vibe obvious. If it says “networking dinner” or “AI coworking,” you already know the tone. Start with one low-pressure option, then branch out.
 
-![Attendees working and hanging out together](https://cdn.balisquad.com/cursor/cursor-bali-june/image%20(4).png)
+![Padel group at a BaliSquad sports session](https://cdn.balisquad.com/organizers/fce4e01f-3a23-467d-9f29-90140f46ffd4.jpg)
 
 ---
 
@@ -109,7 +109,7 @@ Landing week can feel lonely even when the island is buzzing. A few things that 
 
 You don’t need a perfect network on day three. You need one room where people are glad you showed up.
 
-![Hands-on session where newcomers meet people](https://cdn.balisquad.com/cursor/cursor-bali-june/image%20(1).png)
+![Community volunteers and kids at a Bali give-back event](https://cdn.balisquad.com/organizers/feca700b-ec74-49cd-b6f0-b09dcb44e2c1.jpg)
 
 ---
 
