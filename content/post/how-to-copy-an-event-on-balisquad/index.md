@@ -1,6 +1,6 @@
 ---
 title: "How to Copy an Event on BaliSquad"
-date: 2026-09-23
+date: 2026-09-22
 description: "Reuse a meetup you already ran. Copy Event creates a new draft from an existing listing so you can update the date and publish again."
 tags: ["BaliSquad", "Hosting", "Events", "FAQ", "Copy Event"]
 categories: ["Community", "Lifestyle"]
