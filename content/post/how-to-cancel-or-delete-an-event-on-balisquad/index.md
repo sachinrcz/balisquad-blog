@@ -11,21 +11,24 @@ draft: false
 
 Need to call off a meetup? BaliSquad has two different actions. They are easy to mix up.
 
-**Cancel** marks the event as cancelled. It stays visible so people see it was called off.
+**Cancel** marks the event as cancelled. It stays visible so people see it was called off. You can cancel any time the event is not already cancelled, even if the date passed or people have already RSVP'd.
 
-**Delete** removes the event permanently. You only get Delete when the event has **zero registrations**. If anyone has already RSVP'd, use Cancel instead.
+**Delete** removes the event permanently. On the **More** tab under Manage Event, Delete only appears when the event has **zero registrations**. If anyone has joined, use Cancel instead.
+
+Both options live under **Manage Event**, which is for people on the **hosting organization** for that listing. Co-hosts named on the event page cannot open Manage Event for cancel or delete. Ask someone on the org team if you need one of these done.
+
+There is no Cancel or Delete button on the public event page for visitors. Hosts use **Manage Event** → **More**.
 
 ---
 
 ### Cancel an event
 
-1. Open your event page.
-2. Tap **Manage Event**.
-3. Open the **More** tab.
-4. In **Cancel Event**, tap **Cancel Event**.
-5. Confirm with **Yes, Cancel Event** (or **Keep Event** if you changed your mind).
+1. Open **Manage Event** for the event.
+2. Open the **More** tab.
+3. In **Cancel Event**, tap **Cancel Event**.
+4. Confirm with **Yes, Cancel Event** (or **Keep Event** if you changed your mind).
 
-Attendees will see the event as cancelled. You'll get a confirmation toast when it works.
+The page refreshes when cancel goes through. Attendees will see the event as cancelled.
 
 If the event is already cancelled, the Cancel control is hidden.
 
@@ -33,13 +36,13 @@ If the event is already cancelled, the Cancel control is hidden.
 
 ### Delete an event
 
-Only available when nobody has registered yet.
+Only on **Manage Event** → **More**, and only when nobody has registered yet.
 
-1. Open your event page.
-2. Tap **Manage Event** → **More**.
+1. Open **Manage Event** for the event.
+2. Open the **More** tab.
 3. In **Delete Event**, tap **Delete Event**.
 4. Confirm. This cannot be undone.
-5. You'll be sent to **My Events** (`/events/me`).
+5. You'll land on **My Events** (`/events/me`).
 
 If you don't see Delete, someone has already registered. Cancel the event instead.
 
@@ -47,15 +50,15 @@ If you don't see Delete, someone has already registered. Cancel the event instea
 
 ### Delete a draft
 
-Still editing and never published? On the edit form you can use **Delete Draft** (confirm **Yes, Delete Draft**). That's separate from deleting a published event.
+Still editing and never published? On the edit form, tap **Delete Draft** and confirm **Yes, Delete Draft**. When that succeeds, you're sent to the events hub (`/event`). That path is separate from deleting a published event under Manage Event → More (which sends you to `/events/me`).
 
 ---
 
 ### Quick rule
 
-- People already joined → **Cancel**
-- Nobody joined and you want it gone → **Delete**
-- Never published → **Delete Draft** on the edit form
+- People already joined → **Cancel** (Manage Event → More)
+- Nobody joined and you want it gone → **Delete** (Manage Event → More)
+- Never published → **Delete Draft** on the edit form (then `/event`)
 
 Related guides:
 
