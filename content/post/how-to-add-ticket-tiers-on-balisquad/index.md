@@ -1,6 +1,6 @@
 ---
 title: "How to Add Ticket Tiers on BaliSquad"
-date: 2026-09-23
+date: 2026-09-22
 description: "Offer paid or limited tickets on your BaliSquad event. Add tiers with name, price, quantity, and optional sales window. Payment is collected offline."
 tags: ["BaliSquad", "Hosting", "Events", "Tickets", "FAQ"]
 categories: ["Community", "Lifestyle"]
