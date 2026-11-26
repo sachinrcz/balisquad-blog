@@ -1,8 +1,8 @@
 ---
 title: "Renting a Scooter in Bali: Licence, Prices & Area Tips (2026)"
 date: 2026-10-11
-description: "Renting a scooter in Bali: licence and helmet rules, police fines, fair daily and monthly prices, a pre-ride checklist, and tips for Canggu, Uluwatu and Ubud."
-tags: ["Canggu", "Uluwatu", "Ubud", "Scooter", "Bali", "Getting Around", "Travel", "Lifestyle"]
+description: "Renting a scooter in Bali: licence and helmet rules, police fines, fair daily and monthly prices, a pre-ride checklist, and tips for Canggu, Seminyak, Kerobokan, Sanur, Nusa Dua, Uluwatu and Ubud."
+tags: ["Canggu", "Seminyak", "Kerobokan", "Sanur", "Nusa Dua", "Uluwatu", "Ubud", "Scooter", "Bali", "Getting Around", "Travel", "Lifestyle"]
 categories: ["Travel", "Lifestyle"]
 draft: false
 slug: renting-a-scooter-in-bali
@@ -13,7 +13,7 @@ image: "" # PLACEHOLDER: add cover image (existing posts use a full image URL he
 
 In most of Bali, a scooter is the easiest way to get around. It gets you through traffic, up to the cliffs and into the small lanes where cars get stuck. It is also where a lot of newcomers get into trouble, either with the police, with a bad rental, or on the road.
 
-This guide covers the rules, fair prices, what to check before you ride, and what riding is actually like in Canggu, Uluwatu and Ubud.
+This guide covers the rules, fair prices, what to check before you ride, and what riding is actually like in Canggu, Seminyak, Kerobokan, Sanur, Nusa Dua, Uluwatu and Ubud.
 
 ---
 
@@ -119,6 +119,66 @@ Tips for riding in Ubud:
 - **Grab and Gojek** are available, though some streets in the centre limit pickups.
 
 Find classes, talks and meetups on our [Ubud events page](https://balisquad.com/event/in/ubud).
+
+---
+
+## Renting a scooter in Seminyak
+
+Seminyak is walkable for the beach, Jalan Kayu Aya and Jalan Oberoi. A scooter starts to matter once you are going to Kerobokan, Canggu or the airport. Our [Seminyak guide](https://balisquad.com/guides/seminyak) ([Indonesian](https://balisquad.com/id/guides/seminyak)) puts rental at roughly **IDR 1M to 1.8M per month**, the same band as Canggu.
+
+Tips for riding in Seminyak:
+
+- **The bypass and Jalan Raya Seminyak jam from late afternoon.** Cross town in the morning.
+- **Sunset traffic stacks up** on the streets that lead to the beach. If you are riding north to Canggu, leave before then.
+- **Parking attendants** watch bikes outside cafés and beach clubs. In Badung the official motorbike rate is IDR 2,000 per stop, and you should get a ticket.
+- **Grab and Gojek** are the easier choice after dark, and for a short hop along Eat Street.
+
+See what is on at [Seminyak events](https://balisquad.com/event/in/seminyak).
+
+---
+
+## Renting a scooter in Kerobokan
+
+Kerobokan sits inland between Seminyak and Canggu, and a scooter is the practical way around it. The lanes in Umalas are where most long-stay villas are, and ride-hailing is slow to reach them. Our [Kerobokan guide](https://balisquad.com/guides/kerobokan) ([Indonesian](https://balisquad.com/id/guides/kerobokan)) puts rental at roughly **IDR 0.9M to 1.5M per month**, a little under Seminyak.
+
+Tips for riding in Kerobokan:
+
+- **Jalan Raya Kerobokan jams from late afternoon into the evening,** especially at the junction toward Seminyak. Morning is when a cross-town ride stays short.
+- **Grab and Gojek pins often land on the main road,** not at the villa gate. Ride yourself if you are deep in the Umalas lanes.
+- **There is no beach here.** Petitenget and Batu Belig are a short ride toward the coast. Berawa is the other way, toward Canggu.
+- **Some lanes are unlit.** Look at the route to the villa once after dark before you rely on it every night.
+
+See what is on at [Kerobokan events](https://balisquad.com/event/in/kerobokan).
+
+---
+
+## Renting a scooter in Sanur
+
+You can live in Sanur without riding. The beach path, about 5 km from Matahari Terbit to Mertasari, is for walking and bicycles, and motorbikes are not allowed on it. A scooter is for Denpasar, the bypass, and Sanur Harbour when you have bags. Our [Sanur guide](https://balisquad.com/guides/sanur) ([Indonesian](https://balisquad.com/id/guides/sanur)) puts rental at roughly **IDR 0.9M to 1.5M per month**.
+
+Tips for riding in Sanur:
+
+- **Do not take the bike onto the beach path.** Use Jalan Danau Tamblingan, which runs parallel to it.
+- **Sanur Harbour is at the north end,** in Matahari Terbit. Fast boats to Nusa Penida and Nusa Lembongan leave from there. The harbor road jams before the first departures, so leave early if you are riding there with luggage.
+- **The bypass toward Denpasar** is the slow road at rush hour. Grab and Gojek are easy to find for a short trip.
+- **Sindhu is the walkable middle.** If you stay there, a bicycle covers more of daily life than a scooter does.
+
+See what is on at [Sanur events](https://balisquad.com/event/in/sanur).
+
+---
+
+## Renting a scooter in Nusa Dua
+
+Inside the resort grounds you can walk the beach path, and Grab reaches the hotel gates. A scooter matters once you leave that zone: Geger Beach, a supermarket, the airport, or Uluwatu. Our [Nusa Dua guide](https://balisquad.com/guides/nusa-dua) ([Indonesian](https://balisquad.com/id/guides/nusa-dua)) puts rental at roughly **IDR 1M to 1.6M per month**.
+
+Tips for riding in Nusa Dua:
+
+- **The resort sand is public, but ride to a gate or to the path,** not through a hotel lobby.
+- **Geger Beach, just south of the gates in Sawangan,** has its own public entrance. There is a small cash fee at the booth, about Rp 5,000 per person.
+- **Tanjung Benoa, to the north,** is where the water-sports boats are. Give them room on the waterfront road.
+- **The bypass north toward Sanur and Denpasar** is slow at rush hour. A hotel shuttle sometimes runs between properties if you would rather not ride inside the zone.
+
+See what is on at [Nusa Dua events](https://balisquad.com/event/in/nusa-dua).
 
 ---
 
