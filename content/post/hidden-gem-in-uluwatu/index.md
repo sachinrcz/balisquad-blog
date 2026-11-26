@@ -14,8 +14,6 @@ Tucked along the southern cliffs of Bali, the Bukit Peninsula, especially around
 
 ### 🌊 Secret Beaches and Coastal Spots
 
-![Green Bowl](https://littlebingin.com/wp-content/uploads/2025/12/maxresdefault-2-1024x576.jpg)
-
 Uluwatu is known for its coastline, but Ungasan has a few places that still feel a bit under the radar.
 
 Melasti Beach is one of those places that surprises you the first time you go. The cliffs are huge, the water is clear, and it is a great place to catch the sunset without too much noise.
@@ -25,8 +23,6 @@ Pandawa Beach is easier and more relaxed. The shoreline is wide, the water is ca
 Green Bowl Beach takes a bit more effort to reach, but that is part of the charm. After the walk down, you get a quiet cove that often feels far from everything else.
 
 ### 🏄 Staying Active Without Forcing It
-
-![Muscle Beach Club](https://bestbeachclubsbali.com/wp-content/uploads/2025/05/372728692_842761363734997_2231007196224014103_n-1024x1024.jpg)
 
 Life in Bukit naturally encourages you to move. Some mornings start with a surf or just a walk along the cliffs. Other days it might just be a short gym session to reset.
 
@@ -39,8 +35,6 @@ Wellness here does not have to be complicated. Sometimes it is just taking a bre
 Places like Kanana Bali are good for that kind of reset. You go in feeling a bit off, and come out feeling lighter and clearer.
 
 ### 🚶 The Small Things That Stick
-
-![Warung Solo Via](https://media-cdn.tripadvisor.com/media/photo-m/1280/13/fb/c1/e2/buffet.jpg)
 
 What makes Ungasan stand out is not just the beaches or the gyms. It is the everyday moments in between.
 
